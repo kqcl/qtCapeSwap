@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/qt/qtcapeswap/mixin/CapeMixin": {
+      "getSkinTextures": "Lnet/minecraft/class_742;method_52814()Lnet/minecraft/class_8685;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/qt/qtcapeswap/mixin/CapeMixin": {
+        "getSkinTextures": "Lnet/minecraft/class_742;method_52814()Lnet/minecraft/class_8685;"
+      }
+    }
+  }
+}
